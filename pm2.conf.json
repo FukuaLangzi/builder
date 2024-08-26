@@ -1,0 +1,15 @@
+{
+  "apps": {
+    "name": "pm2-server",
+    "autorestart": true,
+    "script": "./bin/www",
+    "watch": "true",
+    "ignore_watch": ["node_modules", "logs"],
+    "error_file": "logs/err.log",
+    "out_file": "logs/out.log",
+    "log_date_format": "YYY-MM-DD HH:mm:ss"
+  },
+  "watch_options": {
+    "usePolling": true
+  }
+}

@@ -1,0 +1,790 @@
++0800-08-26 11:15:30: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:15:30: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:15:30: warning: ---------------------------------------------------
++0800-08-26 11:15:30: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:15:30: 
++0800-08-26 11:15:31: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:15:31: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:15:31: warning: ---------------------------------------------------
++0800-08-26 11:15:31: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:15:31: 
++0800-08-26 11:43:26: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:43:26: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:43:26: warning: ---------------------------------------------------
++0800-08-26 11:43:26: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:43:26: 
++0800-08-26 11:43:27: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:43:27: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:43:27: warning: ---------------------------------------------------
++0800-08-26 11:43:27: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:43:27: 
++0800-08-26 11:48:59: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:48:59: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:48:59: warning: ---------------------------------------------------
++0800-08-26 11:48:59: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:48:59: 
++0800-08-26 11:49:00: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:49:00: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:49:00: warning: ---------------------------------------------------
++0800-08-26 11:49:00: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:49:00: 
++0800-08-26 11:49:40: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:49:40: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:49:40: warning: ---------------------------------------------------
++0800-08-26 11:49:40: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:49:40: 
++0800-08-26 11:49:41: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 11:49:41: warning: | TLS certificate verification has been disabled! |
++0800-08-26 11:49:41: warning: ---------------------------------------------------
++0800-08-26 11:49:41: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 11:49:41: 
++0800-08-26 14:35:51: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:51:     function (params) {
++0800-08-26 14:35:51:     ^^^^^^^^
++0800-08-26 14:35:51: 
++0800-08-26 14:35:51: SyntaxError: Function statements require a function name
++0800-08-26 14:35:51:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:51:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:51:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:51:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:51:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:51:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:51:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:51:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:51:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:51:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:52: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:52:     function (params) {
++0800-08-26 14:35:52:     ^^^^^^^^
++0800-08-26 14:35:52: 
++0800-08-26 14:35:52: SyntaxError: Function statements require a function name
++0800-08-26 14:35:52:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:52:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:52:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:52:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:52:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:52:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:52:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:52:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:52:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:52:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:53: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:53:     function (params) {
++0800-08-26 14:35:53:     ^^^^^^^^
++0800-08-26 14:35:53: 
++0800-08-26 14:35:53: SyntaxError: Function statements require a function name
++0800-08-26 14:35:53:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:53:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:53:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:53:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:53:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:53:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:53:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:53:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:53:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:53:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:53: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:53:     function (params) {
++0800-08-26 14:35:53:     ^^^^^^^^
++0800-08-26 14:35:53: 
++0800-08-26 14:35:53: SyntaxError: Function statements require a function name
++0800-08-26 14:35:53:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:53:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:53:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:53:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:53:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:53:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:53:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:53:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:53:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:53:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:54: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:54:     function (params) {
++0800-08-26 14:35:54:     ^^^^^^^^
++0800-08-26 14:35:54: 
++0800-08-26 14:35:54: SyntaxError: Function statements require a function name
++0800-08-26 14:35:54:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:54:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:54:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:54:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:54:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:54:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:54:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:54:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:54:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:54:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:55: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:55:     function (params) {
++0800-08-26 14:35:55:     ^^^^^^^^
++0800-08-26 14:35:55: 
++0800-08-26 14:35:55: SyntaxError: Function statements require a function name
++0800-08-26 14:35:55:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:55:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:55:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:55:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:55:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:55:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:55:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:55:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:55:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:56: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:56:     function (params) {
++0800-08-26 14:35:56:     ^^^^^^^^
++0800-08-26 14:35:56: 
++0800-08-26 14:35:56: SyntaxError: Function statements require a function name
++0800-08-26 14:35:56:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:56:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:56:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:56:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:56:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:56:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:56:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:56:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:56:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:57: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:57:     function (params) {
++0800-08-26 14:35:57:     ^^^^^^^^
++0800-08-26 14:35:57: 
++0800-08-26 14:35:57: SyntaxError: Function statements require a function name
++0800-08-26 14:35:57:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:57:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:57:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:57:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:57:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:57:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:57:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:57:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:57:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:58: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:58:     function (params) {
++0800-08-26 14:35:58:     ^^^^^^^^
++0800-08-26 14:35:58: 
++0800-08-26 14:35:58: SyntaxError: Function statements require a function name
++0800-08-26 14:35:58:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:58:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:58:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:58:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:58:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:58:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:58:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:58:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:58:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:58: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:58:     function (params) {
++0800-08-26 14:35:58:     ^^^^^^^^
++0800-08-26 14:35:58: 
++0800-08-26 14:35:58: SyntaxError: Function statements require a function name
++0800-08-26 14:35:58:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:58:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:58:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:58:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:58:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:58:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:58:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:58:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:58:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:35:59: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:35:59:     function (params) {
++0800-08-26 14:35:59:     ^^^^^^^^
++0800-08-26 14:35:59: 
++0800-08-26 14:35:59: SyntaxError: Function statements require a function name
++0800-08-26 14:35:59:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:35:59:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:35:59:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:35:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:35:59:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:35:59:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:35:59:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:35:59:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:35:59:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:35:59:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:36:00: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:36:00:     function (params) {
++0800-08-26 14:36:00:     ^^^^^^^^
++0800-08-26 14:36:00: 
++0800-08-26 14:36:00: SyntaxError: Function statements require a function name
++0800-08-26 14:36:00:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:36:00:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:36:00:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:36:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:36:00:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:36:00:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:36:00:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:36:00:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:36:00:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:36:00:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:36:00: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:36:00:     function (params) {
++0800-08-26 14:36:00:     ^^^^^^^^
++0800-08-26 14:36:00: 
++0800-08-26 14:36:00: SyntaxError: Function statements require a function name
++0800-08-26 14:36:00:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:36:00:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:36:00:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:36:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:36:00:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:36:00:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:36:00:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:36:00:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:36:00:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:36:00:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:36:01: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:36:01:     function (params) {
++0800-08-26 14:36:01:     ^^^^^^^^
++0800-08-26 14:36:01: 
++0800-08-26 14:36:01: SyntaxError: Function statements require a function name
++0800-08-26 14:36:01:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:36:01:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:36:01:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:36:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:36:01:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:36:01:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:36:01:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:36:01:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:36:01:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:36:01:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:36:02: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:36:02:     function (params) {
++0800-08-26 14:36:02:     ^^^^^^^^
++0800-08-26 14:36:02: 
++0800-08-26 14:36:02: SyntaxError: Function statements require a function name
++0800-08-26 14:36:02:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:36:02:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:36:02:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:36:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:36:02:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:36:02:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:36:02:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:36:02:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:36:02:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:36:02:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:36:03: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:36:03:     function (params) {
++0800-08-26 14:36:03:     ^^^^^^^^
++0800-08-26 14:36:03: 
++0800-08-26 14:36:03: SyntaxError: Function statements require a function name
++0800-08-26 14:36:03:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:36:03:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:36:03:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:36:03:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:36:03:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:36:03:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:36:03:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:36:03:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:36:03:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:36:03:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:13: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:13:     function (params) {
++0800-08-26 14:41:13:     ^^^^^^^^
++0800-08-26 14:41:13: 
++0800-08-26 14:41:13: SyntaxError: Function statements require a function name
++0800-08-26 14:41:13:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:13:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:13:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:13:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:13:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:13:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:13:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:13:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:13:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:13:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:13: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:13:     function (params) {
++0800-08-26 14:41:13:     ^^^^^^^^
++0800-08-26 14:41:13: 
++0800-08-26 14:41:13: SyntaxError: Function statements require a function name
++0800-08-26 14:41:13:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:13:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:13:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:13:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:13:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:13:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:13:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:13:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:13:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:13:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:14: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:14:     function (params) {
++0800-08-26 14:41:14:     ^^^^^^^^
++0800-08-26 14:41:14: 
++0800-08-26 14:41:14: SyntaxError: Function statements require a function name
++0800-08-26 14:41:14:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:14:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:14:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:14:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:14:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:14:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:14:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:14:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:14:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:14:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:15: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:15:     function (params) {
++0800-08-26 14:41:15:     ^^^^^^^^
++0800-08-26 14:41:15: 
++0800-08-26 14:41:15: SyntaxError: Function statements require a function name
++0800-08-26 14:41:15:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:15:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:15:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:15:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:15:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:15:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:15:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:15:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:15:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:15:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:16: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:16:     function (params) {
++0800-08-26 14:41:16:     ^^^^^^^^
++0800-08-26 14:41:16: 
++0800-08-26 14:41:16: SyntaxError: Function statements require a function name
++0800-08-26 14:41:16:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:16:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:16:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:16:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:16:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:16:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:16:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:16:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:16:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:16: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:16:     function (params) {
++0800-08-26 14:41:16:     ^^^^^^^^
++0800-08-26 14:41:16: 
++0800-08-26 14:41:16: SyntaxError: Function statements require a function name
++0800-08-26 14:41:16:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:16:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:16:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:16:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:16:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:16:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:16:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:16:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:16:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:17: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:17:     function (params) {
++0800-08-26 14:41:17:     ^^^^^^^^
++0800-08-26 14:41:17: 
++0800-08-26 14:41:17: SyntaxError: Function statements require a function name
++0800-08-26 14:41:17:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:17:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:17:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:17:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:17:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:17:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:17:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:17:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:17:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:18: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:18:     function (params) {
++0800-08-26 14:41:18:     ^^^^^^^^
++0800-08-26 14:41:18: 
++0800-08-26 14:41:18: SyntaxError: Function statements require a function name
++0800-08-26 14:41:18:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:18:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:18:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:18:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:18:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:18:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:18:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:18:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:18:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:18:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:19: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:19:     function (params) {
++0800-08-26 14:41:19:     ^^^^^^^^
++0800-08-26 14:41:19: 
++0800-08-26 14:41:19: SyntaxError: Function statements require a function name
++0800-08-26 14:41:19:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:19:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:19:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:19:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:19:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:19:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:19:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:19:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:19:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:19:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:19: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:19:     function (params) {
++0800-08-26 14:41:19:     ^^^^^^^^
++0800-08-26 14:41:19: 
++0800-08-26 14:41:19: SyntaxError: Function statements require a function name
++0800-08-26 14:41:19:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:19:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:19:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:19:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:19:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:19:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:19:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:19:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:19:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:19:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:20: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:20:     function (params) {
++0800-08-26 14:41:20:     ^^^^^^^^
++0800-08-26 14:41:20: 
++0800-08-26 14:41:20: SyntaxError: Function statements require a function name
++0800-08-26 14:41:20:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:20:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:20:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:20:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:20:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:20:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:20:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:20:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:20:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:20:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:21: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:21:     function (params) {
++0800-08-26 14:41:21:     ^^^^^^^^
++0800-08-26 14:41:21: 
++0800-08-26 14:41:21: SyntaxError: Function statements require a function name
++0800-08-26 14:41:21:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:21:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:21:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:21:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:21:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:21:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:21:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:21:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:21:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:21:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:22: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:22:     function (params) {
++0800-08-26 14:41:22:     ^^^^^^^^
++0800-08-26 14:41:22: 
++0800-08-26 14:41:22: SyntaxError: Function statements require a function name
++0800-08-26 14:41:22:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:22:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:22:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:22:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:22:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:22:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:22:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:22:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:22:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:22:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:23: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:23:     function (params) {
++0800-08-26 14:41:23:     ^^^^^^^^
++0800-08-26 14:41:23: 
++0800-08-26 14:41:23: SyntaxError: Function statements require a function name
++0800-08-26 14:41:23:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:23:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:23:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:23:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:23:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:23:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:23:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:23:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:23:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:23:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:23: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:23:     function (params) {
++0800-08-26 14:41:23:     ^^^^^^^^
++0800-08-26 14:41:23: 
++0800-08-26 14:41:23: SyntaxError: Function statements require a function name
++0800-08-26 14:41:23:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:23:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:23:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:23:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:23:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:23:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:23:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:23:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:23:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:23:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:41:24: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:41:24:     function (params) {
++0800-08-26 14:41:24:     ^^^^^^^^
++0800-08-26 14:41:24: 
++0800-08-26 14:41:24: SyntaxError: Function statements require a function name
++0800-08-26 14:41:24:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:41:24:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:41:24:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:41:24:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:41:24:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:41:24:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:41:24:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:41:24:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:41:24:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:41:24:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:50: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:50:     function (params) {
++0800-08-26 14:49:50:     ^^^^^^^^
++0800-08-26 14:49:50: 
++0800-08-26 14:49:50: SyntaxError: Function statements require a function name
++0800-08-26 14:49:50:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:50:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:50:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:50:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:50:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:50:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:50:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:50:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:50:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:50:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:51: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:51:     function (params) {
++0800-08-26 14:49:51:     ^^^^^^^^
++0800-08-26 14:49:51: 
++0800-08-26 14:49:51: SyntaxError: Function statements require a function name
++0800-08-26 14:49:51:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:51:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:51:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:51:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:51:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:51:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:51:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:51:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:51:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:51:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:51: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:51:     function (params) {
++0800-08-26 14:49:51:     ^^^^^^^^
++0800-08-26 14:49:51: 
++0800-08-26 14:49:51: SyntaxError: Function statements require a function name
++0800-08-26 14:49:51:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:51:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:51:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:51:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:51:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:51:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:51:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:51:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:51:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:51:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:52: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:52:     function (params) {
++0800-08-26 14:49:52:     ^^^^^^^^
++0800-08-26 14:49:52: 
++0800-08-26 14:49:52: SyntaxError: Function statements require a function name
++0800-08-26 14:49:52:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:52:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:52:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:52:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:52:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:52:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:52:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:52:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:52:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:52:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:53: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:53:     function (params) {
++0800-08-26 14:49:53:     ^^^^^^^^
++0800-08-26 14:49:53: 
++0800-08-26 14:49:53: SyntaxError: Function statements require a function name
++0800-08-26 14:49:53:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:53:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:53:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:53:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:53:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:53:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:53:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:53:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:53:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:53:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:54: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:54:     function (params) {
++0800-08-26 14:49:54:     ^^^^^^^^
++0800-08-26 14:49:54: 
++0800-08-26 14:49:54: SyntaxError: Function statements require a function name
++0800-08-26 14:49:54:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:54:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:54:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:54:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:54:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:54:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:54:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:54:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:54:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:54:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:54: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:54:     function (params) {
++0800-08-26 14:49:54:     ^^^^^^^^
++0800-08-26 14:49:54: 
++0800-08-26 14:49:54: SyntaxError: Function statements require a function name
++0800-08-26 14:49:54:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:54:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:54:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:54:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:54:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:54:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:54:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:54:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:54:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:54:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:55: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:55:     function (params) {
++0800-08-26 14:49:55:     ^^^^^^^^
++0800-08-26 14:49:55: 
++0800-08-26 14:49:55: SyntaxError: Function statements require a function name
++0800-08-26 14:49:55:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:55:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:55:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:55:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:55:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:55:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:55:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:55:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:55:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:56: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:56:     function (params) {
++0800-08-26 14:49:56:     ^^^^^^^^
++0800-08-26 14:49:56: 
++0800-08-26 14:49:56: SyntaxError: Function statements require a function name
++0800-08-26 14:49:56:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:56:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:56:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:56:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:56:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:56:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:56:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:56:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:56:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:57: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:57:     function (params) {
++0800-08-26 14:49:57:     ^^^^^^^^
++0800-08-26 14:49:57: 
++0800-08-26 14:49:57: SyntaxError: Function statements require a function name
++0800-08-26 14:49:57:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:57:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:57:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:57:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:57:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:57:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:57:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:57:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:57:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:57: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:57:     function (params) {
++0800-08-26 14:49:57:     ^^^^^^^^
++0800-08-26 14:49:57: 
++0800-08-26 14:49:57: SyntaxError: Function statements require a function name
++0800-08-26 14:49:57:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:57:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:57:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:57:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:57:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:57:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:57:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:57:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:57:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:58: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:58:     function (params) {
++0800-08-26 14:49:58:     ^^^^^^^^
++0800-08-26 14:49:58: 
++0800-08-26 14:49:58: SyntaxError: Function statements require a function name
++0800-08-26 14:49:58:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:58:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:58:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:58:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:58:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:58:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:58:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:58:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:58:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:49:59: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:49:59:     function (params) {
++0800-08-26 14:49:59:     ^^^^^^^^
++0800-08-26 14:49:59: 
++0800-08-26 14:49:59: SyntaxError: Function statements require a function name
++0800-08-26 14:49:59:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:49:59:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:49:59:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:49:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:49:59:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:49:59:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:49:59:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:49:59:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:49:59:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:49:59:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:50:00: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:50:00:     function (params) {
++0800-08-26 14:50:00:     ^^^^^^^^
++0800-08-26 14:50:00: 
++0800-08-26 14:50:00: SyntaxError: Function statements require a function name
++0800-08-26 14:50:00:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:50:00:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:50:00:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:50:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:50:00:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:50:00:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:50:00:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:50:00:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:50:00:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:50:00:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:50:00: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:50:00:     function (params) {
++0800-08-26 14:50:00:     ^^^^^^^^
++0800-08-26 14:50:00: 
++0800-08-26 14:50:00: SyntaxError: Function statements require a function name
++0800-08-26 14:50:00:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:50:00:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:50:00:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:50:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:50:00:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:50:00:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:50:00:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:50:00:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:50:00:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:50:00:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:50:01: F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\service\adminService.js:40
++0800-08-26 14:50:01:     function (params) {
++0800-08-26 14:50:01:     ^^^^^^^^
++0800-08-26 14:50:01: 
++0800-08-26 14:50:01: SyntaxError: Function statements require a function name
++0800-08-26 14:50:01:     at internalCompileFunction (node:internal/vm:73:18)
++0800-08-26 14:50:01:     at wrapSafe (node:internal/modules/cjs/loader:1175:20)
++0800-08-26 14:50:01:     at Module._compile (node:internal/modules/cjs/loader:1219:27)
++0800-08-26 14:50:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
++0800-08-26 14:50:01:     at Module.load (node:internal/modules/cjs/loader:1113:32)
++0800-08-26 14:50:01:     at Module._load (node:internal/modules/cjs/loader:960:12)
++0800-08-26 14:50:01:     at Module.require (node:internal/modules/cjs/loader:1137:19)
++0800-08-26 14:50:01:     at Hook._require.Module.require (C:\Users\LENOVO\AppData\Roaming\nvm\v20.2.0\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
++0800-08-26 14:50:01:     at require (node:internal/modules/helpers:121:18)
++0800-08-26 14:50:01:     at Object.<anonymous> (F:\前端\express后台项目代码\frontend-project-blog-server-master\05. 管理员模块登录功能\mysite-express2\routes\admin.js:11:5)
++0800-08-26 14:51:40: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 14:51:40: warning: | TLS certificate verification has been disabled! |
++0800-08-26 14:51:40: warning: ---------------------------------------------------
++0800-08-26 14:51:40: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 14:51:40: 
++0800-08-26 14:51:41: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 14:51:41: warning: | TLS certificate verification has been disabled! |
++0800-08-26 14:51:41: warning: ---------------------------------------------------
++0800-08-26 14:51:41: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 14:51:41: 
++0800-08-26 14:52:30: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 14:52:30: warning: | TLS certificate verification has been disabled! |
++0800-08-26 14:52:30: warning: ---------------------------------------------------
++0800-08-26 14:52:30: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 14:52:30: 
++0800-08-26 14:52:31: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 14:52:31: warning: | TLS certificate verification has been disabled! |
++0800-08-26 14:52:31: warning: ---------------------------------------------------
++0800-08-26 14:52:31: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 14:52:31: 
++0800-08-26 14:55:28: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 14:55:28: warning: | TLS certificate verification has been disabled! |
++0800-08-26 14:55:28: warning: ---------------------------------------------------
++0800-08-26 14:55:28: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 14:55:28: 
++0800-08-26 14:55:30: stderr: warning: ----------------- SECURITY WARNING ----------------
++0800-08-26 14:55:30: warning: | TLS certificate verification has been disabled! |
++0800-08-26 14:55:30: warning: ---------------------------------------------------
++0800-08-26 14:55:30: warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
++0800-08-26 14:55:30: 

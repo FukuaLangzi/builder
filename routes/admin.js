@@ -8,6 +8,7 @@ const {
   buildAndRemoveService,
   installService,
   getMenuService,
+  getLogs,
 } = require("../service/adminService");
 
 // 拉取最新代码
@@ -87,6 +88,7 @@ router.get("/menulist/*", async function (req, res, next) {
         code: "200",
         msg: "获取文件目录成功",
         data: resMsg.menu,
+        type: "folder",
       });
     } else if (type === "file") {
       const { fileStream } = resMsg;
@@ -101,6 +103,17 @@ router.get("/menulist/*", async function (req, res, next) {
       );
       fileStream.pipe(res);
     }
+  });
+});
+
+// 获取日志信息
+router.get("/logs", async function (req, res, next) {
+  getLogs().then((resMsg) => {
+    res.send({
+      code: "200",
+      msg: "获取日志成功",
+      data: resMsg,
+    });
   });
 });
 

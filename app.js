@@ -1,6 +1,7 @@
 // 引包
 var createError = require("http-errors");
 var express = require("express");
+const cors = require("cors");
 var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
@@ -15,6 +16,8 @@ var adminRouter = require("./routes/admin");
 var app = express();
 
 // 使用各种各样的中间件
+// 使用cors中间件
+app.use(cors());
 app.use(logger("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -32,7 +35,7 @@ app.use(function (req, res, next) {
 // 错误处理，一旦发生了错误，就会到这里来
 app.use(function (err, req, res, next) {
   res.send({
-    msg: "111",
+    msg: "出现了错误",
   });
   // set locals, only providing error in development
   res.locals.message = err.message;

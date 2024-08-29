@@ -1,5 +1,6 @@
 // admin 模块的业务逻辑层
 const { spawn } = require("child_process");
+const crossSpawn = require("cross-spawn");
 const {
   mkdirSync,
   existsSync,
@@ -139,8 +140,8 @@ module.exports.buildAndRemoveService = async function (commandName) {
     async function buildFiles() {
       return new Promise((reslove, reject) => {
         console.log("正在打包文件");
-        // 执行 git pull
-        const { stdout } = spawn(
+        // 执行 npm run build
+        const { stdout, stderr } = spawn(
           process.platform === "win32" ? "npm.cmd" : "npm",
           ["run", "build"],
           {
@@ -149,6 +150,10 @@ module.exports.buildAndRemoveService = async function (commandName) {
         );
         stdout.on("data", (msg) => {
           console.log(msg.toString());
+        });
+        stderr.on("data", (msg) => {
+          console.log("报错", msg.toString());
+          reject(msg);
         });
         stdout.on("close", (msg) => {
           console.log("结束", msg);
@@ -231,9 +236,17 @@ module.exports.getMenuService = async function (fileRoute) {
           // 是一个文件夹
           // 读取目录中的文件和文件夹
           readdir(directoryPath, (err, files) => {
+            console.log("🚀这是自动生成的注释 ~ readdir ~ files:", files);
             if (err) {
               console.error("Error reading the directory", err);
               return;
+            }
+            // 如果文件夹为空
+            if (files.length === 0) {
+              reslove({
+                type: "folder",
+                menu: [],
+              });
             }
 
             // 遍历文件和文件夹
@@ -279,6 +292,38 @@ module.exports.getMenuService = async function (fileRoute) {
           });
         }
       });
+    });
+  });
+};
+
+// 获得log日志
+module.exports.getLogs = async function () {
+  return new Promise((reslove, reject) => {
+    console.log(process.platform);
+
+    const { stdout, stderr } = crossSpawn("pm2", ["logs"]);
+
+    // 将子进程的输出数据流转换为字符串
+    let logsData = "";
+    stdout.on("data", (data) => {
+      logsData += data;
+      console.log("实时信息开始", logsData, "实时信息暂时结束");
+    });
+
+    // 监听子进程的结束事件
+    stdout.on("close", (code) => {
+      if (code === 0) {
+        // 命令执行成功，返回日志数据
+        reslove(logsData);
+      } else {
+        // 命令执行失败，返回错误信息
+        reslove(`PM2 logs command failed with code ${code}`);
+      }
+    });
+
+    stderr.on("data", (data) => {
+      // 将标准错误输出也返回给客户端
+      reslove(`PM2 logs error: ${data}`);
     });
   });
 };
